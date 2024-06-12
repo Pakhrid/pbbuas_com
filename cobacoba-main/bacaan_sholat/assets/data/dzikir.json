@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Tasbih",
+      "arabic": "سبحان الل",
+      "latin": "Subhanallah 33x",
+      "terjemahan": "Maha Suci Allah"
+    },
+    {
+      "id": 2,
+      "name": "Tahmid",
+      "arabic": "الحمد لله",
+      "latin": "Alhamdulillah 33x",
+      "terjemahan": "Segala puji bagi Allah"
+    },
+    {
+      "id": 3,
+      "name": "Takbir",
+      "arabic": "الله أكبر",
+      "latin": "Allahu Akbar 33x",
+      "terjemahan": "Allah Maha Besar"
+    },
+    {
+      "id": 4,
+      "name": "Tahlil",
+      "arabic": " لا إله إلا الله",
+      "latin": "La ilaha illallah",
+      "terjemahan": "Mahasuci Tuhanku yang Mahatinggi dan segala puji bagiNya"
+    },
+    {
+      "id": 5,
+      "name": "Istigfar",
+      "arabic": "أستغفر الله",
+      "latin": "Astaghfirullah",
+      "terjemahan": "Aku memohon ampun kepada Allah"
+    }
+]

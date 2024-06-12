@@ -1,0 +1,79 @@
+[
+    {
+      "step": "Panduan Sholat Tobat",
+      "description": "Sholat Tobat adalah sholat sunnah yang dilakukan untuk memohon ampunan atas dosa-dosa yang telah dilakukan. Berikut adalah tata cara melaksanakan Sholat Tobat:"
+    },
+    {
+      "step": "1. Niat sholat sunnah Tobat.",
+      "description": "Niat dilakukan di dalam hati bersamaan dengan takbiratul ihram.",
+      "arabic": "",
+      "translation": ""
+    },
+    {
+      "step": "2. Takbiratul ihram.",
+      "description": "Mengucapkan takbir dan mengangkat kedua tangan sejajar dengan telinga atau bahu.",
+      "arabic": "اللّه أكبر",
+      "translation": "Allahu Akbar (Allah Maha Besar)"
+    },
+    {
+      "step": "3. Membaca Surah Al-Fatihah.",
+      "description": "Membaca Surah Al-Fatihah dengan tumaninah.",
+      "arabic": "بِسْمِ اللّهِ الرَّحْمَنِ الرَّحِيْمِ\nالْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ\nالرَّحْمـنِ الرَّحِيمِ\nمَـلِكِ يَوْمِ الدِّينِ\nإِيَّاك نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ\nاهدِنَــــا الصِّرَاطَ المُستَقِيمَ\nصِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَلاَ الضَّالِّينَ",
+      "translation": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih, Maha Penyayang. Penguasa hari pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami mohon pertolongan. Tunjukilah kami jalan yang lurus, (yaitu) jalan orang-orang yang telah Engkau beri nikmat kepada mereka; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat."
+    },
+    {
+      "step": "4. Membaca surah pendek atau ayat dari Al-Quran.",
+      "description": "Membaca surah pendek atau beberapa ayat dari Al-Quran setelah Al-Fatihah.",
+      "arabic": "",
+      "translation": ""
+    },
+    {
+      "step": "5. Ruku' dengan tumaninah.",
+      "description": "Membungkukkan badan dengan tangan memegang lutut dan punggung lurus, sambil membaca zikir ruku'.",
+      "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ",
+      "translation": "Subhaana rabbiyal 'azhiimi wabihamdih (Maha Suci Tuhanku Yang Maha Agung dan dengan memuji-Nya)"
+    },
+    {
+      "step": "6. I'tidal dengan tumaninah.",
+      "description": "Bangkit dari ruku' sambil mengucapkan zikir i'tidal.",
+      "arabic": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ\nرَبَّنَا وَلَكَ الْحَمْدُ",
+      "translation": "Sami’allaahu liman hamidah, Rabbanaa lakal hamd (Allah mendengar orang yang memuji-Nya, Wahai Tuhan kami, untuk-Mu segala puji)"
+    },
+    {
+      "step": "7. Sujud pertama dengan tumaninah.",
+      "description": "Bersujud sambil membaca zikir sujud.",
+      "arabic": "سُبْحَانَ رَبِّيَ الأَعْلَى وَبِحَمْدِهِ",
+      "translation": "Subhaana rabbiyal a'laa wabihamdih (Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya)"
+    },
+    {
+      "step": "8. Duduk di antara dua sujud dengan tumaninah.",
+      "description": "Duduk di antara dua sujud sambil membaca doa.",
+      "arabic": "رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+      "translation": "Rabbighfirlii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fuannii (Ya Allah, ampunilah aku, rahmatilah aku, cukupkanlah aku, angkatlah derajatku, berilah aku rezeki, berilah aku petunjuk, sehatkanlah aku, dan maafkanlah aku)"
+    },
+    {
+      "step": "9. Sujud kedua dengan tumaninah.",
+      "description": "Kembali bersujud sambil membaca zikir sujud.",
+      "arabic": "سُبْحَانَ رَبِّيَ الأَعْلَى وَبِحَمْدِهِ",
+      "translation": "Subhaana rabbiyal a'laa wabihamdih (Maha Suci Tuhanku Yang Maha Tinggi dan dengan memuji-Nya)"
+    },
+    {
+      "step": "10. Bangkit untuk rakaat kedua dan melakukan gerakan yang sama seperti rakaat pertama.",
+      "description": "Setelah sujud kedua, bangkit untuk rakaat kedua dan mengulangi semua gerakan dan bacaan seperti rakaat pertama.",
+      "arabic": "",
+      "translation": ""
+    },
+    {
+      "step": "11. Tasyahud akhir.",
+      "description": "Duduk tasyahud akhir setelah sujud kedua pada rakaat kedua, membaca tasyahud dan shalawat kepada Nabi Muhammad SAW.",
+      "arabic": "التَّحِيَّاتُ لِلَّهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ. اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "translation": "Segala kehormatan, keberkahan, rahmat, dan kesejahteraan hanya bagi Allah. Keselamatan atasmu, wahai Nabi, beserta rahmat Allah dan keberkahan-Nya. Keselamatan juga atas kami dan atas hamba-hamba Allah yang saleh. Aku bersaksi bahwa tiada Tuhan selain Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya. Ya Allah, limpahkanlah rahmat kepada Muhammad dan keluarga Muhammad sebagaimana Engkau telah melimpahkan rahmat kepada Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia. Ya Allah, berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberkahi Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia."
+    },
+    {
+      "step": "12. Salam.",
+      "description": "Mengucapkan salam ke kanan dan ke kiri.",
+      "arabic": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ",
+      "translation": "Assalamu'alaikum warahmatullah (Semoga keselamatan dan rahmat Allah tercurah untukmu)"
+    }
+  ]
+  
